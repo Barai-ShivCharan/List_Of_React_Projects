@@ -1,46 +1,44 @@
-# React.js Projects
+# React.js Project Collection
 
 ## Project Overview
 
-This repository contains a collection of small to mid-sized projects built using **React.js** and **Bootstrap**. These projects demonstrate various React features, such as component-based architecture, state management, and API integrations. The following projects are included:
+This repository contains a collection of React.js projects, each showcasing different frontend functionalities using **React.js** and **Bootstrap**. The projects included in this collection are:
 
-1. **To-Do List**: A simple app to manage tasks.
-2. **Calculator**: A basic calculator app for arithmetic operations.
-3. **Social Media App**: A mock social media interface with post, like, and comment functionality.
+1. **To-Do List**: A task management app where users can add, delete, and mark tasks as completed.
+2. **Calculator**: A simple calculator that performs basic arithmetic operations.
+3. **Social Media App**: A basic prototype of a social media app with features like posts and user interactions.
+4. **Bharat Clock**: A custom digital clock that displays time based on Indian Standard Time (IST) with React and Bootstrap for styling.
 
 ## Technologies Used
 
-- **React.js**: A JavaScript library for building user interfaces.
-- **Bootstrap**: A front-end framework for responsive design and styling.
-- **JavaScript (ES6+)**: For dynamic interactions and logic.
-- **CSS**: For custom styles in addition to Bootstrap.
-
-## Project List
+- **React.js**: JavaScript library for building user interfaces.
+- **Bootstrap**: CSS framework for responsive design.
+- **HTML & CSS**: For structuring and styling the projects.
+  
+## Project Features
 
 ### 1. To-Do List
+- Add, edit, and delete tasks.
+- Mark tasks as complete.
+- Filter tasks by status (all, active, completed).
 
-- A task management app that allows users to add, edit, delete, and mark tasks as complete.
-- Features include:
-  - State management using React hooks (`useState`).
-  - Dynamic task rendering and filtering.
-  
 ### 2. Calculator
-
-- A basic calculator app for performing addition, subtraction, multiplication, and division.
-- Features include:
-  - Functional components for input and operations.
-  - Clean UI with buttons styled using Bootstrap.
+- Basic arithmetic operations (addition, subtraction, multiplication, division).
+- Clear screen functionality.
+- Responsive design for mobile and desktop views.
 
 ### 3. Social Media App
+- Create, edit, and delete posts.
+- Like and comment on posts.
+- User authentication simulation.
 
-- A mock social media platform where users can create posts, like, and comment.
-- Features include:
-  - Simulated post creation with React state management.
-  - Post interaction with like and comment functionality.
+### 4. Bharat Clock
+- Displays current time in IST.
+- Simple and elegant design with responsive layout.
 
 ## Installation and Setup
 
-To run these projects locally, follow these steps:
+To run these projects locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
